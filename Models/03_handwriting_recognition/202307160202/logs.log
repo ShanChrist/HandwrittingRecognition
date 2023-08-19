@@ -1,0 +1,5 @@
+2023-07-16 02:06:28,376 - ImageReader - WARNING - Image Datasets\IAM_Words\words\a01\a01-117\a01-117-05-02.png could not be read, returning None.
+2023-07-16 02:06:28,377 - DataProvider - WARNING - Data or annotation is None, marking for removal on epoch end.
+2023-07-16 02:06:28,377 - DataProvider - WARNING - Data or annotation is None, skipping.
+2023-07-16 02:09:57,538 - DataProvider - WARNING - Removing ['Datasets\\IAM_Words\\words\\a01\\a01-117\\a01-117-05-02.png', 'Powell'] from dataset.
+2023-07-16 02:10:18,340 - root - INFO - Epoch 0; loss: 14.92655086517334; CER: 0.9771679043769836; WER: 0.9845966696739197; val_loss: 15.394474029541016; val_CER: 0.8864297270774841; val_WER: 0.9258679151535034
